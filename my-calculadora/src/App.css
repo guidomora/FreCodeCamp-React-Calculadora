@@ -1,0 +1,41 @@
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgb(190, 190, 190);
+  font-family: Lato, sans-serif;
+}
+
+.react-logo-contenedor{
+  height: 300px;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.react-img {
+  height: 300px;
+  width: 300px;
+}
+
+.contenedor-calculadora {
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: rgb(91, 131, 241);
+  border-radius: 20px;
+  border: 5px solid white;
+}
+
+.fila {
+  margin: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
